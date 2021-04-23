@@ -1,0 +1,36 @@
+{
+    "data": [
+        {
+            "_id": 0,
+            "name": "old fashioned",
+            "mainSpirit": "burbon",
+            "type": "classic",
+            "prepStyle": "stirred",
+            "ingridients": ["4 dashes Angostura bitters", "1/4 ounce brown sugar syrup (equal parts brown sugar to water)", "1 orange peel", "1 Luxardo maraschino cherry", "2 ounces brown-butter-washed bourbon", "Garnish: 2 orange peels", "Garnish: 1 Luxardo maraschino cherry"],
+            "image": "https://www.liquor.com/thmb/Gv8EQfh1KK0LNDj5m0X4h_a981Y=/960x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/brown-butter-old-fashioned-720x720-primary-76a57ce1bb6b4e74ae3aa1f06be2933c.jpg",
+            "steps": ["In a rocks glass, muddle the bitters, brown sugar syrup, orange peel and cherry.", "Add the bourbon and 1 large ice cube and stir until well-chilled", "Garnish with an orange peel “rose” by rolling 2 swaths of orange peels with a Luxardo maraschino cherry inside."],
+            "modified": "23.04.2021",
+            "ratings": [4, 5, 5, 5, 4],
+            "author": "Filip",
+            "description": "The Old Fashioned, with its proven formula of whiskey, sugar and bitters, is about as good as a drink can get. But bartenders prove time and time again that there’s more than one way to make an Old Fashioned. Modern classics like the tequila- and mezcal-laced Oaxacan Old Fashioned come to mind, as do varieties like the Rum Old Fashioned. Those are just the tip of the boozy iceberg though. Because all over the world bartenders tweak the recipe to their liking, serving countless unique iterations of this old-school drink.",
+            "taste": "dry",
+            "alcoholic": true
+        },
+        {
+            "_id": 1,
+            "name": "mojito",
+            "mainSpirit": "rum",
+            "type": "classic",
+            "prepStyle": "shaken",
+            "ingridients": ["3 mint leaves", "1/2 ounce simple syrup", "2 ounces white rum", "3/4 ounce lime juice, freshly squeezed", "Club soda, to top", "Garnish: mint sprig", "Garnish: lime wheel"],
+            "image": "https://www.liquor.com/thmb/VMoOrrQzOV00AY3rgSK6XxOR0EE=/960x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp__opt__aboutcom__coeus__resources__content_migration__liquor__2018__09__04153106__mojito-720x720-recipe-a55b114fc99c4a64b38c9ef6d1660e20.jpg",
+            "steps": ["Lightly muddle the mint with the simple syrup in a shaker.", "Add the rum, lime juice and ice, and give it a brief shake.", "Strain into a highball glass over fresh ice.", "Top with the club soda.", "Garnish with a mint sprig and lime wheel."],
+            "modified": "23.04.2021",
+            "ratings": [5, 5, 5, 5, 5],
+            "author": "Filip",
+            "description": "This classic remains one of the most popular rum cocktails, and the origin of the recipe is said to date back to 16th-century Cuba. The drink’s predecessor was a cocktail named El Draque, for Sir Francis Drake, the English sea captain and explorer who visited Havana in 1586, and was composed of aguardiente (a cane-spirit precursor to rum), lime, mint and sugar. While that version was supposedly enjoyed for medicinal purposes, the modern cocktail is enjoyed recreationally during the warmer months of the year. For an extra flourish, try adding some coconut milk or coconut jelly to the mix for a variation on the classic recipe.",
+            "taste": "dry",
+            "alcoholic": true
+        }
+    ]
+}
