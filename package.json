@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/villagef/cocktails_api#readme",
   "dependencies": {
+    "heroku": "^7.52.0",
     "json-server": "^0.16.3"
   }
 }
